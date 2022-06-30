@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+div {
+  text-align: center;
+}
+span {
+  margin: 0 10px;
+  text-decoration: none;
+}
